@@ -239,3 +239,8 @@ a {
 	background-color: #16595A;
 }
 
+@media (max-width: 992px) {
+    .card-link{
+    	transform: none;
+    }
+}
